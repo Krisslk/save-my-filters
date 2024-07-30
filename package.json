@@ -1,6 +1,6 @@
 {
   "name": "save-my-filters",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "this npm plugin will save your applied filters to session storage with a url as the key",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,11 @@
     "save",
     "my",
     "table",
-    "filters"
+    "filters",
+    "table filters",
+    "session storage",
+    "storage",
+    "filter tables"
   ],
   "author": "Kriss Sachintha",
   "license": "ISC",
