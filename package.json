@@ -1,7 +1,7 @@
 {
   "name": "save-my-filters",
   "version": "1.0.0",
-  "description": "this npm plugin will save your applied to session storage with a url as the key",
+  "description": "this npm plugin will save your applied filters to session storage with a url as the key",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
