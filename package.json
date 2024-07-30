@@ -1,0 +1,25 @@
+{
+  "name": "save-my-filters",
+  "version": "1.0.0",
+  "description": "this npm plugin will save your applied to session storage with a url as the key",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Krisslk/save-my-filters.git"
+  },
+  "keywords": [
+    "save",
+    "my",
+    "table",
+    "filters"
+  ],
+  "author": "Kriss Sachintha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Krisslk/save-my-filters/issues"
+  },
+  "homepage": "https://github.com/Krisslk/save-my-filters#readme"
+}
