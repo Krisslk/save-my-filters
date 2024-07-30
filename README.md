@@ -1,5 +1,5 @@
 # save-my-filters
-this npm plugin will save your applied to session storage with a url as the key,
+this npm plugin will save your applied filters to session storage with a url as the key,
 to use this module pass the url alone with filters object into saveFilters function, it will convert the filters object 
 into json stringify and store it inside the session storage of the web browser under the provided url as the key
 
